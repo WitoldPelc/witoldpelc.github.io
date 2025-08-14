@@ -5,7 +5,10 @@ This repository is a repository of the website [witoldpelc.github.io] (https://w
 published using GitHub Pages.    
 ---
 ## Licencja    
-Treść strony podlega ochronie prawnej na mocy ustawy o prawie autorskim       
+Treść strony podlega ochronie prawnej na mocy ustawy o prawie autorskim             
 i na mocy licencji: [CC BY-NC-ND 4.0]    
 (zob.: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).    
+The content of this website is protected by copyright law    
+and the following license: [CC BY-NC-ND 4.0]    
+(see: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).    
 ---
