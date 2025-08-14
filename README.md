@@ -1,7 +1,9 @@
 # witoldpelc.github.io
-Niniejsze repozytorium, to repozytorium strony internetowej [witoldpelc.github.io] (https://witoldpelc.github.io)    
+Niniejsze repozytorium, to repozytorium strony internetowej    
+[witoldpelc.github.io] (https://witoldpelc.github.io)    
 opublikowanej za pomocą GitHub Pages.    
-This repository is a repository of the website [witoldpelc.github.io] (https://witoldpelc.github.io)    
+This repository is a repository of the website    
+[witoldpelc.github.io] (https://witoldpelc.github.io)    
 published using GitHub Pages.    
 ---
 ## Licencja License    
