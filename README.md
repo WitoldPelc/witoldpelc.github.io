@@ -4,7 +4,7 @@ opublikowanej za pomocą GitHub Pages.
 This repository is a repository of the website [witoldpelc.github.io] (https://witoldpelc.github.io)    
 published using GitHub Pages.    
 ---
-## Licencja    
+## Licencja License    
 Treść strony podlega ochronie prawnej na mocy ustawy o prawie autorskim             
 i na mocy licencji: [CC BY-NC-ND 4.0]    
 (zob.: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).    
