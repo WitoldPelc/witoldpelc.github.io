@@ -2,7 +2,7 @@
 Niniejsze repozytorium, to repozytorium autorskiej strony internetowej    
 [witoldpelc.github.io] (https://witoldpelc.github.io)    
 opublikowanej za pomocą GitHub Pages,    
-poświęconej w głównej mierze autorkiej książce pt. "Wydobyte z Przemijania".    
+poświęconej głównie autorkiej książce pt. "Wydobyte z Przemijania".    
 This repository is the repository of the author's website    
 [witoldpelc.github.io] (https://witoldpelc.github.io)    
 published via GitHub Pages,    
