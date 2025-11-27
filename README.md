@@ -2,11 +2,11 @@
 Niniejsze repozytorium, to repozytorium autorskiej strony internetowej    
 [witoldpelc.github.io] (https://witoldpelc.github.io)    
 opublikowanej za pomocą GitHub Pages,    
-poświęconej głównie autorkiej książce pt. "Wydobyte z Przemijania".    
+poświęconej głównie autorkiej książce pt. "Wydobyte Z Przemijania".    
 This repository is the repository of the author's website    
 [witoldpelc.github.io] (https://witoldpelc.github.io)    
 published via GitHub Pages,    
-devoted primarily to the author's book "Drawn from Transience".    
+devoted primarily to the author's book "Drawn From Transience".    
 ---
 ## Licencja License    
 Treść strony podlega ochronie prawnej na mocy ustawy o prawie autorskim             
